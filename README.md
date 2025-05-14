@@ -9,8 +9,8 @@
 <tr>
 <td width="50%">
 
-## About Me
-I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jodhpur with a CGPA of 8.54. I've become proficient in C/C++, Python, JavaScript, and various web technologies.
+<h2> About Me </h2>
+<h4>I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jodhpur with a CGPA of 8.54. I've become proficient in C/C++, Python, JavaScript, and various web technologies.</h4>
 
 
 </td>
