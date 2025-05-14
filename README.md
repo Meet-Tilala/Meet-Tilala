@@ -1,10 +1,10 @@
 <h1> Meet Tilala</h1>
 
-<h4>
+
 > "I code with passion, precision, and a pinch of madness, with flawless elegance that blends style and substance effortlessly."
 >
 > -A Connoisseur of Aesthetics-
-</h4>
+
 
 <!-- Two-column layout using HTML -->
 <table>
