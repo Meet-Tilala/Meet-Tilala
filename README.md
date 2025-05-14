@@ -1,4 +1,4 @@
-<span style="font-size:1000px;"> Meet Tilala</span>
+<h1> Meet Tilala</h1>
 
 > "I code with passion, precision, and a pinch of madness, with flawless elegance that blends style and substance effortlessly."
 >
@@ -17,7 +17,7 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 <td width="50%">
 
 <!-- You can place an image here if you want -->
-<img src="https://your-image-url.jpg" align="right" width="550px"/>
+<img src="https://your-image-url.jpg" align="right" width="350px"/>
 
 </td>
 </tr>
@@ -26,11 +26,11 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> </a> 
+<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/> </a> 
+<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> 
+<a href="https://www.geeksforgeeks.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="55" height="55"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="55" height="55"/> </a> 
@@ -49,8 +49,6 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 <a href="https://instagram.com/thatswhatmeetsaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Meet-Tilala" height="40" width="55" /></a>
 <a href="https://www.leetcode.com/MeetTilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Meet-Tilala" height="40" width="55" /></a>
 <a href="mailto:meettilala2005@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="55" /></a>
-</p>
- <img align="right" src="https://komarev.com/ghpvc/?username=Meet-Tilala&theme=tokyonight&hide_border=true&label=Profile%20views&style=flat" alt="Meet-Tilala" /> 
 </p>
 
 <hr>
@@ -100,7 +98,7 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Meet-Tilala&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Most Used Languages
-<p align="right">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-Tilala&layout=compact&theme=dark" alt="Most Used Languages">
 </p>
 
