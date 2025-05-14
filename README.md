@@ -1,4 +1,4 @@
-# Meet Tilala
+<span style="font-size:30px;"> Meet Tilala</span>
 
 > "I code with passion, precision, and a pinch of madness, with flawless elegance that blends style and substance effortlessly."
 >
@@ -10,7 +10,7 @@
 <td width="50%">
 
 <h2> About Me </h2>
-<h4>I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jodhpur with a CGPA of 8.54. I've become proficient in C/C++, Python, JavaScript, and various web technologies.</h4>
+I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jodhpur with a CGPA of 8.54. I've become proficient in C/C++, Python, JavaScript, and various web technologies.
 
 
 </td>
