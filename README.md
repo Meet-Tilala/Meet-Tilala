@@ -74,6 +74,8 @@ I'm looking for help with **DAG-based blockchain solutions** as I plan to work o
 - **E-Commerce Reseller Website (AROMA)** - Web marketplace for pre-owned items trading within IITJ
 - **Geospatial Query System** - A spatial database system with efficient query handling
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnishSukhramani&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Most Used Languages
 <p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetTilala&layout=compact&theme=dark" alt="Most Used Languages">
