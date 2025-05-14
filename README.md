@@ -45,9 +45,9 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 <a href="https://linkedin.com/in/meet-tilala97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meet-Tilala" height="20" width="30" /></a>
 <a href="https://instagram.com/thatswhatmeetsaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Meet-Tilala" height="20" width="30" /></a>
 <a href="https://www.leetcode.com/MeetTilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Meet-Tilala" height="20" width="30" /></a>
-<a href="mailto:meettilala2005@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Meet-Tilala" height="20" width="30" /></a>
-<!-- <a align="center" href="https://twitter.com/anishsukhramani" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/anishsukhramani?logo=twitter&style=for-the-badge&theme=tokyonight&hide_border=true" alt="anishsukhramani" /></a> -->
- <img align="right" src="https://komarev.com/ghpvc/?username=anishsukhramani&theme=tokyonight&hide_border=true&label=Profile%20views&style=flat" alt="anishsukhramani" /> 
+<a href="mailto:meettilala2005@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="30" /></a>
+</p>
+ <img align="right" src="https://komarev.com/ghpvc/?username=Meet-Tilala&theme=tokyonight&hide_border=true&label=Profile%20views&style=flat" alt="Meet-Tilala" /> 
 </p>
 
 <hr>
