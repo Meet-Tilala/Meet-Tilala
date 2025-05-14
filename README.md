@@ -1,4 +1,4 @@
-<span style="font-size:70px;"> Meet Tilala</span>
+<span style="font-size:1000px;"> Meet Tilala</span>
 
 > "I code with passion, precision, and a pinch of madness, with flawless elegance that blends style and substance effortlessly."
 >
