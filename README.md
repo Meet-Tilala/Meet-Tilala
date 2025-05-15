@@ -51,13 +51,7 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 <a href="mailto:meettilala2005@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="55" /></a>
 </p>
 
-<hr>
 
-
-
-<!-- till here -->
-<br>
-<br>
 <!-- <hr> -->
 <hr>
 <p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Tilala&theme=tokyonight&hide_border=true" alt="Meet-Tilala" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Meet-Tilala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="Meet-Tilala" /></p>
