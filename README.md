@@ -55,18 +55,13 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 
 ## Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-Tilala&layout=compact&theme=tokyonight" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-Tilala&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
 </p>
 <br>
 <br>
 <br>
 <br>
-<br>
-<!-- freom here -->
-<br>
-<br>
-<br>
-<br>
+
 <!-- till here -->
 <br>
 <br>
