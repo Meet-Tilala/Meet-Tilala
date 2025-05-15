@@ -5,7 +5,7 @@
  
   <h1 align="left">Meet Tilala</h1>
 <div align="center"  >
-  <img src="https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9" alt="Image" style="border-radius: 50px;" height="200">
+  <img src="" alt="Image" style="border-radius: 50px;" height="200">
 </div>
 
 
@@ -44,11 +44,11 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/Meet__Tilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Meet-Tilala" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/meet-tilala97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meet-Tilala" height="40" width="40" /></a>
-<a href="https://instagram.com/thatswhatmeetsaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Meet-Tilala" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/MeetTilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Meet-Tilala" height="40" width="40" /></a>
-<a href="mailto:meettilala2005@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="40" /></a>
+<a href="https://twitter.com/Meet__Tilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Meet-Tilala" height="40" width="55" /></a>
+<a href="https://linkedin.com/in/meet-tilala97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meet-Tilala" height="40" width="55" /></a>
+<a href="https://instagram.com/thatswhatmeetsaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Meet-Tilala" height="40" width="55" /></a>
+<a href="https://www.leetcode.com/MeetTilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Meet-Tilala" height="40" width="55" /></a>
+<a href="mailto:meettilala2005@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="55" /></a>
 </p>
 
 <hr>
