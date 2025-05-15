@@ -75,7 +75,7 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 - 🎓 Currently maintaining 8.54 CGPA at IIT Jodhpur
 
 ## Research & Projects:
-- **Game Theoretic Analysis of Payment Networks in Blockchain** - Research project under Prof. Nitin Awathare
+- **Game Theoretic Analysis of Payment Networks in Blockchain** - Research project under <a href="https://scholar.google.com/citations?user=J2Rhwj8AAAAJ&hl=en" target="_blank">Prof. Nitin Awathare</a>
 - **Sentiment Classification using Core ML Principles** - Text sentiment analysis using machine learning techniques
 - **E-Commerce Reseller Website (AROMA)** - Web marketplace for pre-owned items trading within IITJ
 - **Geospatial Query System** - A spatial database system with efficient query handling
