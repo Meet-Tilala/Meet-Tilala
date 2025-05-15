@@ -3,7 +3,7 @@
 
 > "I code with passion, precision, and a pinch of madness, with flawless elegance that blends style and substance effortlessly."
 >
-> -A Connoisseur of Aesthetics-
+> <A Connoisseur of Aesthetics>
 
 
 <!-- Two-column layout using HTML -->
