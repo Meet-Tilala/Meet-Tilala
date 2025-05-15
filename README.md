@@ -53,7 +53,10 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 
 <hr>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="50%" align="left" src="https://github-profile-trophy.vercel.app/?username=Meet-Tilala&theme=tokyonight&hide_border=true" alt="Meet-Tilala" style="height: 250%; margin:0"/></a><img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meet-Tilala&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Meet-Tilala" /></p>
+## Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-Tilala&layout=compact&theme=tokyonight" alt="Most Used Languages">
+</p>
 <br>
 <br>
 <br>
@@ -97,10 +100,7 @@ I am currently pursuing my B.Tech in Computer Science and Engineering at IIT Jod
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Meet-Tilala&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-Tilala&layout=compact&theme=dark" alt="Most Used Languages">
-</p>
+
 
 <!-- Profile views counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=Meet-Tilala&color=blue)
