@@ -21,6 +21,7 @@
 I'm Meet Tilala — a Computer Science undergrad at IIT Jodhpur, who treats code not just as instructions for machines, but as a canvas for problem-solving artistry. I engineer elegant solutions with the surgical precision of a developer and the chaotic creativity of a dreamer. My academic journey has taken me deep into the realms of algorithms, blockchain game theory, and machine learning, while my hands-on projects — from a sentiment analysis engine to a geospatial query system — prove that theory is just the beginning.
 
 
+
 Whether I’m architecting a campus-wide resale platform or optimizing decentralized networks, I bring a relentless curiosity and unshakable discipline.
 
 Currently part of the CSE Society and the Quant-Finance Club, I thrive where logic meets leadership. I build. I debug. I deliver. And when it all breaks down? I reboot — smarter.
