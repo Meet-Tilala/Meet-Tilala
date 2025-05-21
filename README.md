@@ -5,7 +5,7 @@
  
   <h1 align="left">Meet Tilala</h1>
 <div align="center"  >
-  <img src="https://github.com/Meet-Tilala/Meet-Tilala/blob/main/m.jpg" alt="Image" style="border-radius: 50px;" height="200">
+  <img src="https://github.com/Meet-Tilala/Meet-Tilala/blob/main/IMG_4111_1_optimized_1000.png" alt="Image" style="border-radius: 50px;" height="400">
 </div>
 
 
