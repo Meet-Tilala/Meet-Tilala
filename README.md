@@ -64,11 +64,11 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 
 
 
-### 🏆 Notable Achievements:
-- 🥇 AIR 1959 in JEE Advanced 2023 (top 0.1% of qualified students)
-- 🥈 AIR 4236 in JEE Main 2023 (99.64 percentile, top 0.2%)
-- 🏅 Secured 2nd Position in Gujarat State (96.4%) in CBSE Board Examination 2023
-- 🎓 Currently maintaining 8.54 CGPA at IIT Jodhpur
+###  Notable Achievements:
+-  AIR 1959 in JEE Advanced 2023 (top 0.1% of qualified students)
+-  AIR 4236 in JEE Main 2023 (99.64 percentile, top 0.2%)
+-  Secured 2nd Position in Gujarat State (96.4%) in CBSE Board Examination 2023
+-  Currently maintaining 8.64 CGPA at IIT Jodhpur
 
 ## Research & Projects:
 - **Game Theoretic Analysis of Payment Networks in Blockchain** - Research project under <a href="https://scholar.google.com/citations?user=J2Rhwj8AAAAJ&hl=en" target="_blank">Prof. Nitin Awathare</a>
