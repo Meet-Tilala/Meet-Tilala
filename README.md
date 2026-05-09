@@ -1,17 +1,7 @@
-<!-- <h1>Anish Sukhramani</h1>
-<hr>
-<p>Hello World</p>
- -->
+
  
   <h1 align="left">Meet Tilala</h1>
-<div align="center"  >
-  <img src="https://github.com/Meet-Tilala/Meet-Tilala/blob/main/IMG_4111_1_optimized_1000.png" alt="Image" style="border-radius: 50px;" height="300">
-</div>
 
-
-<!--  <img src="https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9" alt="Image" height="200">
-
- ![](https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9) -->
 
 <h3 align="center">"I code with passion, precision, and a pinch of madness, with flawless elegance that blends style and substance effortlessly.
 "</h3>
