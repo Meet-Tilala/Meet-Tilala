@@ -50,15 +50,9 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 
 <!-- <hr> -->
 <hr>
-<p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Tilala&theme=tokyonight&hide_border=true" alt="Meet-Tilala" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Meet-Tilala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="Meet-Tilala" /></p>
+<p align="center"><img width="47.5%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Tilala&theme=tokyonight&hide_border=true" alt="Meet-Tilala" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Meet-Tilala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="Meet-Tilala" /></p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 <hr>
 
