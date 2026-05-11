@@ -11,8 +11,6 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 
 
 
-<hr>
-
 
 
 <hr>
