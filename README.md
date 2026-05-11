@@ -13,10 +13,7 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Tilala&theme=tokyonight&hide_border=true" alt="Meet-Tilala Streak Stats" />
-</p>
-<br>
+
 
 <hr>
 
