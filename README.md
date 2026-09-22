@@ -21,13 +21,4 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 - Secured 2nd Position in Gujarat State (96.4%) in CBSE Board Examination 2023
 - Currently maintaining 8.64 CGPA at IIT Jodhpur
 
-## Research & Projects:
-- **Game Theoretic Analysis of Payment Networks in Blockchain** - Research project under <a href="https://scholar.google.com/citations?user=J2Rhwj8AAAAJ&hl=en" target="_blank">Prof. Nitin Awathare</a>
-- **Sentiment Classification using Core ML Principles** - Text sentiment analysis using machine learning techniques
-- **E-Commerce Reseller Website (AROMA)** - Web marketplace for pre-owned items trading within IITJ
-- **Geospatial Query System** - A spatial database system with efficient query handling
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Meet-Tilala&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Profile views counter -->
-![Profile views](https://komarev.com/ghpvc/?username=Meet-Tilala&color=blue)
